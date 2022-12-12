@@ -1,0 +1,66 @@
+{
+  "length": 1.83,
+  "width": 0.91,
+  "height": 0.91,
+  "poolLength": 22.8,
+  "poolWidth": 12.2,
+  "poolDepth": 2.4,
+  "maxVelX": 1.5,
+  "maxVelY": 1,
+  "maxVelZ": 0.5,
+  "maxVelAlpha": 0.1,
+  "maxVelBeta": 0.1,
+  "maxVelGamma": 0.1,
+  "obstLength": 3.05,
+  "obstWidth": 3.05,
+  "obstHeight": 2.4,
+  "team": "Bootlegger",
+  "task1conf": 10,
+  "task2conf": 9,
+  "task3conf": 8,
+  "task4conf_a": 7,
+  "task4conf_b": 6,
+  "task5conf": 5,
+  "task6conf": 4,
+  "torpedoHoleSize": "Large",
+  "coords": [
+    [
+      1.5,
+      3,
+      1.2
+    ],
+    [
+      4.5,
+      3.8,
+      1.2
+    ],
+    [
+      6.1,
+      7.8,
+      1.2
+    ],
+    [
+      9.8,
+      13.3,
+      1.2
+    ],
+    [
+      2.3,
+      15.5,
+      1.2
+    ],
+    [
+      3.7,
+      20.6,
+      1.2
+    ]
+  ],
+  "task1": true,
+  "task2": true,
+  "task3": true,
+  "task4_a": true,
+  "task4_b": true,
+  "task5": true,
+  "task6": true,
+  "task4": true
+}
